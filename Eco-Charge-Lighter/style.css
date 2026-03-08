@@ -381,18 +381,32 @@ h1{
 .row9 .plsNote{
     color: black;
     background-color: red;
-    width: 50%;
+    width: 90%;
+    margin-bottom: 10px;
     /* margin: auto 50%; */
 
 }
 
 .row9 h3{
-    margin-top: 20px;
     color: red;
+    margin-bottom: 20px;
+}
+
+.row9 .plsNote{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.row9 .last{
+    margin-bottom: 20px;
 }
 
 .row9 img{
     height: 200px;
+}
+
+.row9 h3{
+    
 }
 
 .row10{
